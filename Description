@@ -1,0 +1,4 @@
+Use case:
+Customer want to migrate data from landscape A to landscape B. Where the "Volumn" in landscape B costs much more money as in landscape A.
+The data in landscape A is "old" and "not cleaned" - it contains a lot of dummies (>50%) but they might have DEPENDENCIES to USED-Current-data
+the "data" here can be master data / tables / objects / codes etc
